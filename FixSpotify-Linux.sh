@@ -25,4 +25,4 @@ sudo cp "$HOSTS_FILE" "${HOSTS_FILE}.bak"
 
 echo "$SPOTIFY_ENTRIES" | sudo tee -a "$HOSTS_FILE" > /dev/null
 
-echo "File succes update."
+echo "File updated successfully."
