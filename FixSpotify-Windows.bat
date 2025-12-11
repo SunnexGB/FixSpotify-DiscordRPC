@@ -24,5 +24,5 @@ echo 185.246.223.127 www.spotify.com
 echo 185.246.223.127 xpui.app.spotify.com
 ) >> "%hostsFile%"
 
-echo File succes update.
+echo File updated successfully.
 pause
